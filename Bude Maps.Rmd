@@ -1,6 +1,6 @@
 ---
 title: "Bude Maps"
-author: "Lauren VanValkenburg"
+author: "Lauren VanValkenburg, Forked by Shih-Ching, Huang"
 date: "March 25, 2018"
 output: 
   pdf_document: 
@@ -144,3 +144,10 @@ Summerleaze Beach is located only 5 minutes from the center of Bude. Is has a la
 The Barrel at Bude is the second largest micropub to open in Cornwall. Its in one of the oldest cottages and in the center of Bude. The bar insisde is made from local beach hut timbers that were destroyed in a winter storm. 
 
 - http://www.micropubassociation.co.uk/micropubs/the-barrel-at-bude/
+
+#Images
+![Edgcumbe](Edgcumbe.jpg)
+
+
+![Elements](Elements.jpg)
+
